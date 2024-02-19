@@ -1,0 +1,17 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.msg-container {
+  background-image: linear-gradient(#2b2c49, #b5b9ff);
+  height: 300px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 100px;
+  border-radius: 10px;
+}
